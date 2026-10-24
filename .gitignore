@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local editor settings (keep the shared VS Code launch configuration)
+.vscode/*
+!.vscode/launch.json
+*.code-workspace
+
+# Archived experiments and obsolete sound assets
+/backup/
+/Sound_obsolete/
+/raw sound/
+*.chirp
+*.wav
