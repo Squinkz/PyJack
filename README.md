@@ -6,6 +6,8 @@ This is an unfinished personal project. The idea was to compose the game from se
 
 All code is hand-written, only this README document was partly generated with an LLM.
 
+![sdf](screenshot.png)
+
 ## Running
 
 Requires Windows and Python 3.10 or newer. There are no third-party dependencies.
